@@ -1,0 +1,4 @@
+# odd_pairs
+This code shows one way to find pairs and odd of a series numbers using C and many if-else sentences
+If the number is odd then  it calculate 3 and 4 pow
+else only calculate de 2 pow
